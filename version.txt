@@ -1,0 +1,2 @@
+   2.0
+   https://github.com/YOURNAME/spareastor-firmware/releases/download/v2.0/firmware.bin
