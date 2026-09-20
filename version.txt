@@ -1,2 +1,2 @@
    2.0
-   https://github.com/YOURNAME/spareastor-firmware/releases/download/v2.0/firmware.bin
+   https://github.com/dhanushken/DTG_Sprayer/releases/download/v2.0/firmware.bin
